@@ -40,11 +40,6 @@ Sou **educador social, escritor e pesquisador em formação**, apaixonado por hi
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v-anjos&theme=radical)  
 
-![Repos mais usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v-anjos&theme=radical)  
-![Commits por linguagem](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=v-anjos&theme=radical)  
-
-![Horários de commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=v-anjos&theme=radical&utcOffset=-3)  
-
 </div>
 
 ## Interesses
