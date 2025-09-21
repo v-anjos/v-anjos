@@ -30,6 +30,8 @@ Sou **educador social, escritor e pesquisador em formação**, apaixonado por hi
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=v-anjos&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-anjos&layout=compact&theme=radical" alt="Top Langs" height="180em"/>
+  ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+
 </div>
 
 ---
