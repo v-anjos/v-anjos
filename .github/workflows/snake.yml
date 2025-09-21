@@ -1,12 +1,12 @@
-name: Generate Snake
+name: Generate Snake Automatically
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # roda a cada 12 horas (ajuste se quiser)
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # roda todo dia à meia-noite UTC (ajuste se quiser)
+  workflow_dispatch:       # mantém a opção de rodar manualmente também
 
 permissions:
-  contents: write
+  contents: write         # permite criar/atualizar arquivos e branch
 
 jobs:
   generate:
@@ -18,7 +18,7 @@ jobs:
       - name: Generate snake (SVG)
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.repository_owner }}  # pega automaticamente seu user
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=orange
 
@@ -26,5 +26,5 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
+          branch: output          # branch de destino do SVG
           directory: dist
