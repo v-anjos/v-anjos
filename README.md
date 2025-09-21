@@ -42,10 +42,6 @@ Sou **educador social, escritor e pesquisador em formação**, apaixonado por hi
 
 </div>
 
-## 🐍 Snake Game (Contribuições animadas)
-
-![Snake animation](https://github.com/v-anjos/v-anjos/blob/output/github-contribution-grid-snake.svg)
-
 ## Interesses
 - Desenvolvimento pessoal e literatura de fantasia  
 - Ciência, tecnologia e inovação em educação  
