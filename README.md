@@ -33,12 +33,6 @@ Sou **educador social, escritor e pesquisador em formação**, apaixonado por hi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-anjos&layout=compact&theme=radical" height="180em"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=v-anjos&theme=radical" height="180em"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=v-anjos&theme=radical" height="180em"/>
-</div>
-
-
 ---
 
 ## Interesses
