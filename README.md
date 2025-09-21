@@ -42,6 +42,10 @@ Sou **educador social, escritor e pesquisador em formação**, apaixonado por hi
 
 </div>
 
+## 🐍 Snake Game (Contribuições animadas)
+
+![Snake animation](https://github.com/v-anjos/v-anjos/blob/output/github-contribution-grid-snake.svg)
+
 ## Interesses
 - Desenvolvimento pessoal e literatura de fantasia  
 - Ciência, tecnologia e inovação em educação  
@@ -54,10 +58,6 @@ Sou **educador social, escritor e pesquisador em formação**, apaixonado por hi
 ![Profile Views](https://komarev.com/ghpvc/?username=vanjosa&label=Visualizações&color=blueviolet&style=flat-square)
 
 ---
-
-## 🐍 Snake Game (Contribuições animadas)
-
-![Snake animation](https://github.com/v-anjos/v-anjos/blob/output/github-contribution-grid-snake.svg)
 
 Sinta-se à vontade para explorar meus projetos, publicações e conexões profissionais.
 
