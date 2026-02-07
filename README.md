@@ -28,8 +28,9 @@ Sou **educador social, escritor e pesquisador em formação**, apaixonado por hi
 ---
 ## Estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=v-anjos&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-anjos&layout=compact&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=v-anjos&theme=radical)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v-anjos&theme=radical)
+
 
 ---
 ## 📊 Estatísticas Extras
