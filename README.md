@@ -8,10 +8,9 @@
 ## Sobre mim
 Sou **educador social, escritor e pesquisador em formação**, apaixonado por histórias, ciência e inovação na educação. Busco integrar conhecimento teórico e prática criativa, explorando diferentes áreas do saber para gerar impacto positivo.  
 
-- Educador social na **APAE**  
+- Educador
 - Escritor de livros de fantasia e desenvolvimento pessoal  
 - Graduando em:
-  - Ciências de Dados  
   - Física  
   - Pedagogia  
   - Análise e Desenvolvimento de Sistemas (ADS)  
