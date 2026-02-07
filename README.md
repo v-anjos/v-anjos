@@ -13,7 +13,7 @@ ele chega exatamente quando pretende chegar."*
 ## 🧭 Sobre mim
 
 Sou **educador social, escritor e pesquisador em formação**, com interesse em narrativas, ciência e inovação educacional.  
-Busco integrar **pensamento crítico, criatividade e tecnologia**, transformando conhecimento em impacto social e educacional.
+Integro **criatividade, pensamento crítico e tecnologia**, buscando impacto social por meio do conhecimento.
 
 - 👨‍🏫 Educador  
 - ✍️ Escritor (fantasia e desenvolvimento pessoal)  
@@ -21,21 +21,28 @@ Busco integrar **pensamento crítico, criatividade e tecnologia**, transformando
   - Física  
   - Pedagogia  
   - Análise e Desenvolvimento de Sistemas (ADS)  
-- 🔬 Pesquisador e entusiasta de metodologias ativas de ensino  
+- 🔬 Pesquisador e entusiasta de metodologias ativas  
 
 ---
 
 ## 📚 Livros Publicados
 
-- **[O Enigma do Espelho Mágico](https://loja.uiclap.com/titulo/ua35763/)**  
-  *Fantasia, imaginação e reflexão*
+### 🟣 O Enigma do Espelho Mágico  
+<sub>*Mistério • Fantasia • Autoconhecimento*</sub>
 
-- **[Tenha Coragem de Ser Imperfeito](https://loja.uiclap.com/titulo/ua38531/)**  
-  *Desenvolvimento pessoal e propósito*
+🔗 **[Acessar livro](https://loja.uiclap.com/titulo/ua35763/)**
 
 ---
 
-## 📊 Atividade no GitHub
+### 🟢 Tenha Coragem de Ser Imperfeito  
+<sub>*Desenvolvimento pessoal • Crescimento • Esperança*</sub>
+
+🔗 **[Acessar livro](https://loja.uiclap.com/titulo/ua38531/)**
+
+---
+
+## 📊 Atividade no GitHub  
+<sub>*Tema alinhado ao universo de fantasia (preto & roxo)*</sub>
 
 <div align="center">
 
@@ -46,7 +53,8 @@ Busco integrar **pensamento crítico, criatividade e tecnologia**, transformando
 
 ---
 
-## 📈 Visão Geral
+## 📈 Visão Geral  
+<sub>*Síntese visual da sua jornada técnica*</sub>
 
 <div align="center">
 
@@ -58,18 +66,19 @@ Busco integrar **pensamento crítico, criatividade e tecnologia**, transformando
 
 ## 🎯 Interesses
 
-- Literatura, fantasia e desenvolvimento pessoal  
-- Ciência, tecnologia e inovação educacional  
-- Cultura nerd/geek: cinema, HQs, jogos e análise narrativa  
+- 📖 Literatura, fantasia e desenvolvimento pessoal  
+- 🧪 Ciência, tecnologia e inovação educacional  
+- 🎮 Cultura nerd/geek: cinema, HQs, jogos e análise narrativa  
 
 ---
 
-## 🌐 Contato
+## 🌐 Contato  
+<sub>*Cores claras → comunicação, proximidade e crescimento*</sub>
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-ovinianjos-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ovinianjos/)  
-![Profile Views](https://komarev.com/ghpvc/?username=v-anjos&label=Visualizações&color=blueviolet&style=flat-square)
+[![Instagram](https://img.shields.io/badge/Instagram-ovinianjos-4CAF50?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ovinianjos/)  
+![Profile Views](https://komarev.com/ghpvc/?username=v-anjos&label=Visualizações&color=6A5ACD&style=flat-square)
 
 </div>
 
@@ -77,7 +86,7 @@ Busco integrar **pensamento crítico, criatividade e tecnologia**, transformando
 
 <div align="center">
 
-**Explore meus projetos, publicações e ideias.**  
-Conhecimento também é uma forma de narrativa.
+**Conhecimento também é narrativa.**  
+Cada projeto é um capítulo em construção.
 
 </div>
