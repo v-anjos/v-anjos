@@ -73,7 +73,7 @@ Integro **criatividade, pensamento crítico e tecnologia**, buscando impacto soc
 ---
 
 ## 🌐 Contato  
-<sub>*Cores claras → comunicação, proximidade e crescimento*</sub>
+
 
 <div align="center">
 
