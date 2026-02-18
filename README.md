@@ -28,21 +28,19 @@ Integro **criatividade, pensamento crítico e tecnologia**, buscando impacto soc
 ## 📚 Livros Publicados
 
 ### 🟣 O Enigma do Espelho Mágico  
-<sub>*Mistério • Fantasia • Autoconhecimento*</sub>
 
 🔗 **[Acessar livro](https://loja.uiclap.com/titulo/ua35763/)**
 
 ---
 
 ### 🟢 Tenha Coragem de Ser Imperfeito  
-<sub>*Desenvolvimento pessoal • Crescimento • Esperança*</sub>
+
 
 🔗 **[Acessar livro](https://loja.uiclap.com/titulo/ua38531/)**
 
 ---
 
 ## 📊 Atividade no GitHub  
-<sub>*Tema alinhado ao universo de fantasia (preto & roxo)*</sub>
 
 <div align="center">
 
@@ -54,7 +52,6 @@ Integro **criatividade, pensamento crítico e tecnologia**, buscando impacto soc
 ---
 
 ## 📈 Visão Geral  
-<sub>*Síntese visual da sua jornada técnica*</sub>
 
 <div align="center">
 
@@ -87,6 +84,5 @@ Integro **criatividade, pensamento crítico e tecnologia**, buscando impacto soc
 <div align="center">
 
 **Conhecimento também é narrativa.**  
-Cada projeto é um capítulo em construção.
 
 </div>
