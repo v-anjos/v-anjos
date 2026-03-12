@@ -78,11 +78,3 @@ Integro **criatividade, pensamento crítico e tecnologia**, buscando impacto soc
 ![Profile Views](https://komarev.com/ghpvc/?username=v-anjos&label=Visualizações&color=6A5ACD&style=flat-square)
 
 </div>
-
----
-
-<div align="center">
-
-**Conhecimento também é narrativa.**  
-
-</div>
