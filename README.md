@@ -12,7 +12,7 @@ ele chega exatamente quando pretende chegar."*
 
 ## 🧭 Sobre mim
 
-Sou **educador social, escritor e pesquisador em formação**, com interesse em narrativas, ciência e inovação educacional.  
+Sou **educador, escritor e pesquisador em formação**, com interesse em ciência, tecnologia e inovação educacional.  
 Integro **criatividade, pensamento crítico e tecnologia**, buscando impacto social por meio do conhecimento.
 
 - 👨‍🏫 Educador  
