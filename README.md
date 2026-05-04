@@ -1,10 +1,15 @@
 <div align="center">
 
-# Vinicius Anjos
+# ✨ Vinicius Anjos
 
-*"Um mago nunca se atrasa, nem se adianta,  
-ele chega exatamente quando pretende chegar."*  
-— **Gandalf**, *O Senhor dos Anéis*
+> *"Um mago nunca se atrasa, nem se adianta,  
+> ele chega exatamente quando pretende chegar."*  
+> — Gandalf, *O Senhor dos Anéis*
+
+---
+
+🎓 Física • Pedagogia • ADS • Filosofia 
+✍️ Escritor | 👨‍🏫 Educador | 💻 Desenvolvedor em formação   
 
 </div>
 
@@ -12,61 +17,61 @@ ele chega exatamente quando pretende chegar."*
 
 ## 🧭 Sobre mim
 
-Sou **educador, escritor e pesquisador em formação**, com interesse em ciência, tecnologia e inovação educacional.  
-Integro **criatividade, pensamento crítico e tecnologia**, buscando impacto social por meio do conhecimento.
+Sou movido pela incrivél junção de mundos entre **educação & tecnologia**.
 
-- 👨‍🏫 Educador  
-- ✍️ Escritor (fantasia e desenvolvimento pessoal)  
-- 🎓 Graduando em:
-  - Física  
-  - Pedagogia  
-  - Análise e Desenvolvimento de Sistemas (ADS)  
-- 🔬 Pesquisador e entusiasta de metodologias ativas  
+Atuo como **educador e escritor**, enquanto desenvolvo habilidades em programação para transformar ideias em soluções reais.  
+Acredito que aprender é um processo criativo — e ensinar, um ato de construção de mundos.
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🧠 Áreas de Atuação
+
+- 👨‍🏫 Educação e metodologias ativas  
+- 💻 Lógica de programação e desenvolvimento  
+- ✍️ Escrita criativa (fantasia e desenvolvimento pessoal)  
+- 🔬 Divulgação científica
+- ⚛️ Física  
+
+---
+
+## 🚀 Tecnologias
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
 </div>
 
 ---
 
-## 📚 Livros Publicados
+## 📚 Livros
 
 ### 🟣 O Enigma do Espelho Mágico  
-
-🔗 **[Acessar livro](https://loja.uiclap.com/titulo/ua35763/)**
-
----
+🔗 https://loja.uiclap.com/titulo/ua35763/
 
 ### 🟢 Tenha Coragem de Ser Imperfeito  
-
-🔗 **[Acessar livro](https://loja.uiclap.com/titulo/ua38531/)**
+🔗 https://loja.uiclap.com/titulo/ua38531/
 
 ---
 
-## 📊 Atividade no GitHub  
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=v-anjos&theme=radical)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v-anjos&theme=radical)
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=v-anjos&theme=radical"/>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v-anjos&theme=radical"/>
 
 </div>
 
 ---
 
-## 📈 Visão Geral  
+## 📈 Visão Geral
 
 <div align="center">
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v-anjos&theme=radical)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v-anjos&theme=radical"/>
 
 </div>
 
@@ -74,16 +79,25 @@ Integro **criatividade, pensamento crítico e tecnologia**, buscando impacto soc
 
 ## 🎯 Interesses
 
-- 📖 Literatura, fantasia e desenvolvimento pessoal  
-- 🧪 Ciência, tecnologia e inovação educacional  
-- 🎮 Cultura nerd/geek: cinema, HQs, jogos e análise narrativa  
+- 📖 Narrativas e construção de mundos  
+- 🧪 Ciência aplicada ao cotidiano  
+- 🎮 Cultura geek e análise de histórias  
+- 🚀 Tecnologia aplicada à educação  
 
 ---
 
-## 🌐 Contato  
+## 🌐 Contato
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-ovinianjos-4CAF50?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ovinianjos/)  
+<a href="https://www.instagram.com/ovinianjos/">
+  <img src="https://img.shields.io/badge/Instagram-@ovinianjos-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
+
+---
+
+## ⚡ Filosofia
+
+> "Ideias só se tornam reais quando ganham forma — seja em código, palavras ou ação."
