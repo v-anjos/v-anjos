@@ -21,7 +21,7 @@
 Sou movido pela incrivél junção de mundos entre **educação & tecnologia**.
 
 Atuo como **educador e escritor**, enquanto desenvolvo habilidades em programação para transformar ideias em soluções reais.  
-Acredito que aprender é um processo criativo — e ensinar, um ato de construção de mundos.
+Acredito que aprender é um processo criativo — e ensinar, além de ser um ato de coragem é ato de **construção**.
 
 ---
 
