@@ -85,6 +85,5 @@ Integro **criatividade, pensamento crítico e tecnologia**, buscando impacto soc
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-ovinianjos-4CAF50?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ovinianjos/)  
-![Profile Views](https://komarev.com/ghpvc/?username=v-anjos&label=Visualizações&color=6A5ACD&style=flat-square)
 
 </div>
