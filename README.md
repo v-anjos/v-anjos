@@ -9,6 +9,7 @@
 ---
 
 🎓 Física • Pedagogia • ADS • Filosofia 
+
 ✍️ Escritor | 👨‍🏫 Educador | 💻 Desenvolvedor em formação   
 
 </div>
