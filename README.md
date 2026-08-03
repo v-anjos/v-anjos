@@ -54,22 +54,6 @@ Currently, I am focused on improving my software development skills while explor
 
 ---
 
-## 📚 Books
-
-### 🟣 O Enigma do Espelho Mágico
-
-A fantasy novel that explores mystery, courage, and self-discovery.
-
-🔗 https://loja.uiclap.com/titulo/ua35763/
-
-### 🟢 Tenha Coragem de Ser Imperfeito
-
-A personal development book about overcoming fear, embracing imperfections, and pursuing personal growth.
-
-🔗 https://loja.uiclap.com/titulo/ua38531/
-
----
-
 ## 📚 Currently Learning
 
 - ☕ Java Programming
@@ -81,22 +65,11 @@ A personal development book about overcoming fear, embracing imperfections, and 
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=v-anjos&theme=radical"/>
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v-anjos&theme=radical"/>
-
-</div>
-
----
-
-## 📈 Profile Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v-anjos&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=v-anjos&theme=radical&hide_border=true"/>
 
 </div>
 
